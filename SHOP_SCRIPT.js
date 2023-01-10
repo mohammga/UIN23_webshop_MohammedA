@@ -1,0 +1,1 @@
+//Dette er JavaScript fil
